@@ -1,7 +1,6 @@
 ## Machine learning model for complex concentrated alloys/high entropy alloys using TensorFlow
 
-Author: Fernando Henrique da Costa 
-<fernando.henriquecosta@yahoo.com.br>
+Author: Soumen Basak
 
 This is a work-in-progress of a machine learning model to attempt to predict the Vickers hardness of CCAs/HEAs.
 
