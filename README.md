@@ -7,7 +7,7 @@ This is a work-in-progress of a machine learning model to attempt to predict the
 The image below shows the comparison between the values indicated in the articles and the values predicted by the model. 
 The data was divided between training set and test set. 
 
-![Train and test results](https://github.com/fernandohcosta/CCAs-HEAs-machine-learning-model-using-TensorFlow/blob/main/images/Test%20train%20prediction%20experimental%20HV.png)
+![Train and test results](https://github.com/NoobMaster1999/Prediction-the-Vickers-hardness-of-CCA/blob/main/Images/Test%20train%20prediction%20experimental%20HV.png)
 
 This model considers the composition of the alloy, some descriptive parameters (such as VEC, atomic size difference and mixing enthalpy) and its condition. There are five conditions currently used:
  - AC: As-cast
