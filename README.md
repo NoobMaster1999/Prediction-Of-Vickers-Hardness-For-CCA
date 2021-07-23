@@ -2,7 +2,7 @@
 
 Author: Soumen Basak
 
-This is a work-in-progress of a machine learning model to attempt to predict the Vickers hardness of CCAs/HEAs.
+This is a work-in-progress of a machine learning model to attempt to predict the Vickers hardness of CCAs.
 
 The image below shows the comparison between the values indicated in the articles and the values predicted by the model. 
 The data was divided between training set and test set. 
