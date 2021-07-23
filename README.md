@@ -1,4 +1,4 @@
-## Machine learning model for complex concentrated alloys/high entropy alloys using TensorFlow
+## Machine learning model for CCA(Complex Concentrated Alloys) using TensorFlow
 
 Author: Soumen Basak
 
@@ -23,14 +23,10 @@ References of the database
 
 [2] WEN, Cheng et al. Machine learning assisted design of high entropy alloys with desired property. Acta Materialia, v. 170, p. 109-117, 2019. https://doi.org/10.1016/j.actamat.2019.03.010
 
-[3] TONG, Zhaopeng et al. Microstructure, microhardness and residual stress of laser additive manufactured CoCrFeMnNi high-entropy alloy subjected to laser shock peening. Journal of Materials Processing Technology, p. 116806, 2020. https://doi.org/10.1016/j.jmatprotec.2020.116806
+[3] JAIN, Harsh et al. Phase evolution and mechanical properties of non-equiatomic Fe–Mn–Ni–Cr–Al–Si–C high entropy steel. Journal of Alloys and Compounds, p. 155013, 2020. https://doi.org/10.1016/j.jallcom.2020.155013
 
-[4] JAIN, Harsh et al. Phase evolution and mechanical properties of non-equiatomic Fe–Mn–Ni–Cr–Al–Si–C high entropy steel. Journal of Alloys and Compounds, p. 155013, 2020. https://doi.org/10.1016/j.jallcom.2020.155013
+[4] TORRALBA, J. M.; ALVAREDO, P.; GARCÍA-JUNCEDA, Andrea. High-entropy alloys fabricated via powder metallurgy. A critical review. Powder Metallurgy, v. 62, n. 2, p. 84-114, 2019. https://doi.org/10.1080/00325899.2019.1584454
 
-[5] NONG, Zhi-Sheng; LEI, Yu-Nong; ZHU, Jing-Chuan. Wear and oxidation resistances of AlCrFeNiTi-based high entropy alloys. Intermetallics, v. 101, p. 144-151, 2018. https://doi.org/10.1016/j.intermet.2018.07.017
+[5] SONI, Vinay Kumar; SANYAL, Shubhashis; SINHA, Sudip K. Phase evolution and mechanical properties of novel FeCoNiCuMox high entropy alloys. Vacuum, v. 174, p. 109173, 2020. https://doi.org/10.1016/j.vacuum.2020.109173
 
-[6] TORRALBA, J. M.; ALVAREDO, P.; GARCÍA-JUNCEDA, Andrea. High-entropy alloys fabricated via powder metallurgy. A critical review. Powder Metallurgy, v. 62, n. 2, p. 84-114, 2019. https://doi.org/10.1080/00325899.2019.1584454
-
-[7] SONI, Vinay Kumar; SANYAL, Shubhashis; SINHA, Sudip K. Phase evolution and mechanical properties of novel FeCoNiCuMox high entropy alloys. Vacuum, v. 174, p. 109173, 2020. https://doi.org/10.1016/j.vacuum.2020.109173
-
-[8] BORG, Christopher KH et al. Expanded dataset of mechanical properties and observed phases of multi-principal element alloys. Scientific Data, v. 7, n. 1, p. 1-6, 2020. https://doi.org/10.1038/s41597-020-00768-9
+[6] BORG, Christopher KH et al. Expanded dataset of mechanical properties and observed phases of multi-principal element alloys. Scientific Data, v. 7, n. 1, p. 1-6, 2020. https://doi.org/10.1038/s41597-020-00768-9
