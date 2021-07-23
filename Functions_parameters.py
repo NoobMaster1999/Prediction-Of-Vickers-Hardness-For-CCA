@@ -1,6 +1,3 @@
-# AUTHOR: Fernando Henrique da Costa <fernando.henriquecosta@yahoo.com.br>
-# DATE CREATED: 04/11/2020
-
 
 import pandas as pd
 import math
